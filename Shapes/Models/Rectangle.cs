@@ -4,6 +4,6 @@ class ProjectName
 {
   static void Main()
   {
-    
+
   }
 }
